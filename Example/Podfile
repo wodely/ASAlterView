@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ASAlterView_Example' do
+  pod 'ASAlterView', :path => '../'
+
+  target 'ASAlterView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
