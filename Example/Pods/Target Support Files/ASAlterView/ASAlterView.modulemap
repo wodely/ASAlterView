@@ -1,0 +1,6 @@
+framework module ASAlterView {
+  umbrella header "ASAlterView-umbrella.h"
+
+  export *
+  module * { export * }
+}

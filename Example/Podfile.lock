@@ -1,0 +1,16 @@
+PODS:
+  - ASAlterView (0.1.0)
+
+DEPENDENCIES:
+  - ASAlterView (from `../`)
+
+EXTERNAL SOURCES:
+  ASAlterView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ASAlterView: 3475437770d2f4de0e8f00b4f18184424d4b80aa
+
+PODFILE CHECKSUM: 3fa17ef2a8a14af73831ab25c8f4689de8098de1
+
+COCOAPODS: 1.10.1

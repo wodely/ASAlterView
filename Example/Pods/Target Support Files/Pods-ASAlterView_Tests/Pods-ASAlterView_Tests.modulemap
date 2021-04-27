@@ -1,0 +1,6 @@
+framework module Pods_ASAlterView_Tests {
+  umbrella header "Pods-ASAlterView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
